@@ -17,6 +17,7 @@ Exibição de livros disponíveis, com informações detalhadas como título, au
 Cálculo do valor total de todos os livros disponíveis, exibindo o preço total na tela.
 
 Consumo de uma API externa para obter a lista de livros.
+
 Tecnologias Utilizadas:
 
 HTML5
